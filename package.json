@@ -10,8 +10,10 @@
       "name": "jimizai <359743984@qq.com>"
     }
   ],
+  "types": "types/index.d.ts",
   "files": [
-    "lib"
+    "lib",
+    "types/*.d.ts"
   ],
   "main": "lib/module.js",
   "scripts": {
