@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/jimizai/nuxt-analytics/compare/v0.0.7...v0.0.8) (2020-11-19)
+
+
+### Bug Fixes
+
+* change nuxt departed type Configra Configuration ([c073f89](https://github.com/jimizai/nuxt-analytics/commit/c073f894d3633e52c17cb6ab2747ad446b607109))
+
 ### [0.0.7](https://github.com/jimizai/nuxt-analytics/compare/v0.0.6...v0.0.7) (2020-11-19)
 
 
