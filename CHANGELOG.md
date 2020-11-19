@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/jimizai/nuxt-analytics/compare/v0.0.6...v0.0.7) (2020-11-19)
+
+
+### Bug Fixes
+
+* 上传了types ([c822bc8](https://github.com/jimizai/nuxt-analytics/commit/c822bc8d462ffcdcb7533a88b2f6a5e46578f7c1))
+
 ### [0.0.6](https://github.com/jimizai/nuxt-analytics/compare/v0.0.4...v0.0.6) (2020-11-19)
 
 
