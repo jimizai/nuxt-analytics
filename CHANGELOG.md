@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/jimizai/nuxt-analytics/compare/v0.0.10...v0.0.11) (2020-11-19)
+
+
+### Features
+
+* add eslint ignore ([03b0839](https://github.com/jimizai/nuxt-analytics/commit/03b0839cdd4961a0e24024a65dff337034e78d86))
+
+
+### Bug Fixes
+
+* bug fixed ([49c7b84](https://github.com/jimizai/nuxt-analytics/commit/49c7b846cb47d814b9fa3487ea6db489eff15c7c))
+
 ### [0.0.10](https://github.com/jimizai/nuxt-analytics/compare/v0.0.9...v0.0.10) (2020-11-19)
 
 
