@@ -21,7 +21,7 @@ declare module '@nuxt/types' {
     $track: Track
   }
 
-  interface Configuration {
+  interface NuxtConfig {
     analytics?: AnalyticsOptions
   }
 }
