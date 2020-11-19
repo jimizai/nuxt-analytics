@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/jimizai/nuxt-analytics/compare/v0.0.4...v0.0.6) (2020-11-19)
+
+
+### Features
+
+* add types to package ([eab053f](https://github.com/jimizai/nuxt-analytics/commit/eab053f527c7429cec636b224347b5d3bc650623))
+
+
+### Bug Fixes
+
+* remane ([084abf7](https://github.com/jimizai/nuxt-analytics/commit/084abf78d19134f2da94fa85dd3d33f6396c2f01))
+
 ### [0.0.2](https://github.com/jimizai/nuxt-analytics/compare/v0.0.4...v0.0.2) (2020-11-19)
 
 
