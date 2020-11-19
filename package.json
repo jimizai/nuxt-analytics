@@ -19,7 +19,10 @@
     "release": "yarn test && standard-version && git push --follow-tags && npm publish",
     "test": "yarn lint && jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vue-baidu-analytics": "^1.1.0",
+    "vue-gtag": "^1.10.0"
+  },
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
