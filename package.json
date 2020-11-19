@@ -1,6 +1,6 @@
 {
   "name": "nuxt-analytics",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Google And Baidu Analytics Module for Nuxt.js",
   "repository": "",
   "author": "jimizai",
@@ -13,7 +13,7 @@
   "types": "types/index.d.ts",
   "files": [
     "lib",
-    "types/*.d.ts"
+    "types"
   ],
   "main": "lib/module.js",
   "scripts": {
