@@ -1,5 +1,5 @@
 {
-  "name": "analytics",
+  "name": "nuxt-analytics",
   "version": "0.0.4",
   "description": "Google And Baidu Analytics Module for Nuxt.js",
   "repository": "",
