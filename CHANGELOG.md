@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](https://github.com/jimizai/nuxt-analytics/compare/v0.0.8...v0.0.9) (2020-11-19)
+
+
+### Bug Fixes
+
+* toArray is not defined bug fixed ([844a436](https://github.com/jimizai/nuxt-analytics/commit/844a4361c1f8f6cf2f64e6d651b47d57bd96a6f7))
+
 ### [0.0.8](https://github.com/jimizai/nuxt-analytics/compare/v0.0.7...v0.0.8) (2020-11-19)
 
 
