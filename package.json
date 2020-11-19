@@ -1,12 +1,13 @@
 {
   "name": "nuxt-analytics",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Google And Baidu Analytics Module for Nuxt.js",
   "repository": "",
+  "author": "jimizai",
   "license": "MIT",
   "contributors": [
     {
-      "name": "dyk <359743984@qq.com>"
+      "name": "jimizai <359743984@qq.com>"
     }
   ],
   "files": [
