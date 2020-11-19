@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.12](https://github.com/jimizai/nuxt-analytics/compare/v0.0.11...v0.0.12) (2020-11-19)
+
+
+### Features
+
+* add disabled options ([0f042a0](https://github.com/jimizai/nuxt-analytics/commit/0f042a012d0dcffc19556610d4cd43cf4b2d9932))
+
 ### [0.0.11](https://github.com/jimizai/nuxt-analytics/compare/v0.0.10...v0.0.11) (2020-11-19)
 
 
