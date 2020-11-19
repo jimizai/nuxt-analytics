@@ -1,6 +1,6 @@
 {
   "name": "analytics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Google And Baidu Analytics Module for Nuxt.js",
   "repository": "",
   "license": "MIT",
