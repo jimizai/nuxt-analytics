@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.13](https://github.com/jimizai/nuxt-analytics/compare/v0.0.12...v0.0.13) (2021-03-18)
+
+
+### Features
+
+* add test analytics config ([82d86f1](https://github.com/jimizai/nuxt-analytics/commit/82d86f1a17fc3b64f433f6fa047eb85af136180a))
+
+
+### Bug Fixes
+
+* analytics config changed ([7c062c1](https://github.com/jimizai/nuxt-analytics/commit/7c062c1ad0fd04d83fb22c7b23dddb17b097ad2c))
+* remove vue baidu analyzer ([3d63734](https://github.com/jimizai/nuxt-analytics/commit/3d63734ea64c15bb107e705144d3c9c43605c282))
+
 ### [0.0.12](https://github.com/jimizai/nuxt-analytics/compare/v0.0.11...v0.0.12) (2020-11-19)
 
 
