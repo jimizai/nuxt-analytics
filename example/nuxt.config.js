@@ -9,6 +9,6 @@ module.exports = {
     disabled: false,
     baidu: 'asdsadasdasd12312313123sadqdwadsad',
     google: 'UA-123123123444-1',
-    isDebug: false
+    debug: false
   }
 }
