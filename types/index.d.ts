@@ -1,24 +1,32 @@
 import type Vue from 'vue'
-import { Track, AnalyticsOptions } from './track'
+import { ExtendInterface } from './extend'
 import './vuex'
 
+interface AnalyticsOptions {
+  baidu: string | string[];
+  google: string;
+  disabled: boolean;
+  isDebug: boolean;
+}
+
+
 declare module '@nuxt/vue-app' {
-  interface Context {
-    $track: Track
+  interface Context extends ExtendInterface{
+    //
   }
-  interface NuxtAppOptions {
-    $track: Track
+  interface NuxtAppOptions extends ExtendInterface {
+    //
   }
 }
 
 // Nuxt 2.9+
 declare module '@nuxt/types' {
-  interface Context {
-    $track: Track
+  interface Context extends ExtendInterface {
+    //
   }
 
-  interface NuxtAppOptions {
-    $track: Track
+  interface NuxtAppOptions extends ExtendInterface {
+    //
   }
 
   interface NuxtConfig {
@@ -27,7 +35,7 @@ declare module '@nuxt/types' {
 }
 
 declare module 'vue/types/vue' {
-  interface Vue {
-    $track: Track
+  interface Vue extends ExtendInterface{
+    //
   }
 }

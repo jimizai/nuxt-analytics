@@ -1,7 +1,7 @@
-import { Track } from './track'
+import { ExtendInterface } from './extend'
 
 declare module 'vuex' {
-  interface Store<S> {
-    $track: Track,
+  interface Store<S> extends ExtendInterface {
+    //
   }
 }
