@@ -23,7 +23,6 @@
     "test": "yarn lint && jest"
   },
   "dependencies": {
-    "vue-baidu-analytics": "^1.1.0",
     "vue-gtag": "^1.10.0"
   },
   "devDependencies": {
